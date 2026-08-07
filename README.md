@@ -1,97 +1,71 @@
+<!-- ===================================================== -->
+<!--                GABRIELA LENZ | README                  -->
+<!-- ===================================================== -->
+
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Olá, eu sou a Gabriela Lenz
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=Inicializando+sistema...;Bem-vindo+ao+meu+GitHub!;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Desenvolvedora+em+Forma%C3%A7%C3%A3o;Apaixonada+por+Tecnologia+e+IA;Sempre+Aprendendo+Novas+Tecnologias" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:12071F,20:3A0CA3,45:7209B7,70:A855F7,100:C77DFF&text=GABRIELA%20LENZ&fontColor=ffffff&fontSize=55&fontAlignY=38&animation=fadeIn&desc=Computer%20Science%20Student%20•%20Building%20the%20Future&descAlignY=58"/>
 
 </div>
 
 ---
 
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3200&pause=900&color=A855F7&center=true&vCenter=true&width=900&lines=INITIALIZING+SYSTEM...;Loading+Artificial+Intelligence...;Loading+Portfolio...;Loading+Projects...;Access+Granted.;Welcome+to+my+GitHub."/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/STATUS-ONLINE-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MODE-BUILDING-9333EA?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/UI%2FUX-LOVER-A855F7?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI-ENTHUSIAST-C084FC?style=for-the-badge"/>
+
+</div>
+
+---
+
+<div align="center">
+
+
+</div>
+
+---
+
+# <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35">  𝙎𝙤𝙗𝙧𝙚 𝙈𝙞𝙢
 
 ```text
-╔══════════════════════════════════════════════════════════════╗
-║                  SISTEMA INICIALIZADO                       ║
-╠══════════════════════════════════════════════════════════════╣
-║ Usuário ............. Gabriela Lenz                         ║
-║ Perfil .............. @GabiLenz                             ║
-║ Status .............. 🟢 ONLINE                             ║
-║ Formação ............ Ciência da Computação                 ║
-║ Missão .............. Transformar ideias em soluções        ║
-║ Sistema ............. READY                                 ║
-╚══════════════════════════════════════════════════════════════╝
+Nome............... Gabriela Lenz
+
+Perfil............. @GabiLenz
+
+Formação........... Ciência da Computação
+
+Localização........ Brasil
+
+Status............. Estudando • Criando • Evoluindo
+
+Interesses......... Tecnologia • Desenvolvimento • Design • Inovação
+
+Foco atual......... Aprimorar conhecimentos e desenvolver projetos
+
 ```
 
-</div>
+Sou estudante de **Ciência da Computação**, apaixonada por tecnologia e pela criação de soluções digitais.
 
----
-
-# 👩 Sobre mim
-
-Sou estudante de **Ciência da Computação** apaixonada por tecnologia, desenvolvimento de software e inovação.
-
-Atualmente estou desenvolvendo projetos acadêmicos e pessoais para evoluir minhas habilidades em programação, inteligência artificial, desenvolvimento web, design de interfaces e arquitetura de software.
-
-Acredito que aprender na prática é a melhor forma de evoluir. Por isso, gosto de transformar ideias em projetos reais, sempre buscando criar soluções modernas, úteis e bem construídas.
-
----
-
-## 🚀 Atualmente
-
-```text
-> STATUS
-
-✓ Aprendendo continuamente
-
-✓ Desenvolvendo projetos próprios
-
-✓ Explorando Inteligência Artificial
-
-✓ Estudando Desenvolvimento Full Stack
-
-✓ Aperfeiçoando UI/UX
-
-✓ Construindo meu portfólio
-```
-
----
-
-## 🎯 Áreas de Interesse
-
-- 🤖 Inteligência Artificial
-- 💻 Desenvolvimento Full Stack
-- 🌐 Desenvolvimento Web
-- 🎨 UI/UX Design
-- 📈 FinTech
-- 🎮 Desenvolvimento de Jogos
-- ☁️ Cloud Computing
-- ⚙️ Arquitetura de Software
-
----
-
-## 📚 Atualmente estudando
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,nodejs,git,github,docker,mysql,postgres,figma,vscode,unity&perline=8" />
-
-</p>
-
----
-
-## 💡 Frase
-
-<div align="center">
-
-> *"Cada projeto é uma oportunidade para aprender, evoluir e construir algo que faça a diferença."*
-
-</div>
+Atualmente estou construindo minha experiência por meio de estudos e projetos acadêmicos e pessoais, buscando evoluir minhas habilidades técnicas, minha criatividade e minha capacidade de resolver problemas.
 
 ---
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=GabiLenz&label=Visualizações&color=0e75b6&style=for-the-badge)
-
 </div>
+
+---
