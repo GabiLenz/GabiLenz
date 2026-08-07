@@ -7,13 +7,6 @@
 
 <div align="center">
 
-<img src="./assets/hero.gif" width="100%">
-
-</div>
-
-
-<div align="center">
-
 # 𝙂𝙖𝙗𝙧𝙞𝙚𝙡𝙖 𝙇𝙚𝙣𝙯
 
 <div align="center">
