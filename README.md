@@ -14,14 +14,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=500&size=16&duration=2500&pause=900&color=C084FC&center=true&vCenter=true&width=500&lines=Learning+technology...;Creating+digital+experiences...;Building+through+projects..."/>
 
-<br>
 
 <img src="./assets/purple-line.gif" width="280">
 
 </div>
-
-
-
 
 
 <div align="center">
