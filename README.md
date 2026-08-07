@@ -5,9 +5,6 @@
 </div>
 
 
-
-
-
 ---
 
 ## ✦ Sobre mim
