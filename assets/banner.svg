@@ -29,13 +29,10 @@
 </defs>
 
 
-<!-- Fundo -->
 
 <rect width="1200" height="300" fill="url(#bg)"/>
 
 
-
-<!-- Glow animado esquerdo -->
 
 <ellipse 
 cx="180" 
@@ -55,8 +52,6 @@ repeatCount="indefinite"/>
 
 
 
-<!-- Glow animado direito -->
-
 <ellipse 
 cx="1030"
 cy="140"
@@ -74,8 +69,6 @@ repeatCount="indefinite"/>
 </ellipse>
 
 
-
-<!-- Partículas -->
 
 <g fill="#C084FC">
 
@@ -125,9 +118,6 @@ repeatCount="indefinite"/>
 
 
 
-<!-- Linhas de energia -->
-
-
 <path
 d="M0 230 Q300 150 600 220 T1200 200"
 stroke="#C084FC"
@@ -156,8 +146,6 @@ fill="none"/>
 
 
 
-<!-- Brilho atrás do nome -->
-
 
 <text
 x="600"
@@ -177,8 +165,6 @@ GABRIELA LENZ
 
 
 
-<!-- Nome -->
-
 <text
 x="600"
 y="140"
@@ -194,9 +180,6 @@ GABRIELA LENZ
 </text>
 
 
-
-
-<!-- Subtitulo -->
 
 <text
 x="600"
