@@ -5,7 +5,6 @@
 
 </div>
 
----
 
 ## ✦ Sobre mim
 
@@ -14,7 +13,6 @@ Sou estudante de **Ciência da Computação**, com interesse em **UI/UX e desenv
 Gosto de explorar como a tecnologia pode transformar ideias em soluções digitais funcionais.
 
 
----
 
 ## ✦ Interesses em Tecnologia
 
