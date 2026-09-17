@@ -1,16 +1,28 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**GabiLenz/GabiLenz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="./assets/banner.svg" width="100%" alt="Gabriela Lenz">
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+## ✦ Sobre mim
+
+Sou estudante de **Ciência da Computação**, com interesse em **UI/UX e desenvolvimento**.
+
+Gosto de explorar como a tecnologia pode transformar ideias em soluções digitais funcionais.
+
+<br><br>
+
+## ✦ Interesses em Tecnologia
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,nodejs,html,css,figma,postgres&perline=8" alt="Tecnologias">
+
+<br><br>
+
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=500&size=14&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=350&lines=Learning+%E2%80%A2+Creating+%E2%80%A2+Evolving" alt="Learning Creating Evolving">
+
+</div>
