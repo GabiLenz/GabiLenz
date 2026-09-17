@@ -102,26 +102,7 @@
         fill="#F5F3FF">
     Gabriela Lenz
   </text>
-
-  <text x="380"
-        y="135"
-        text-anchor="middle"
-        font-family="Arial, Helvetica, sans-serif"
-        font-size="11"
-        letter-spacing="4"
-        fill="#C4B5FD"
-        opacity=".85">
-    COMPUTER SCIENCE STUDENT
-  </text>
-
-  <line x1="230"
-        y1="157"
-        x2="530"
-        y2="157"
-        stroke="#A855F7"
-        stroke-width="1"
-        opacity=".5"/>
-
+ 
   <circle cy="157"
           r="3"
           fill="#C084FC"
