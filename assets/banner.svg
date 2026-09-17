@@ -1,0 +1,137 @@
+<svg width="760" height="220" viewBox="0 0 760 220"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="textGlow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <radialGradient id="purpleGlow">
+      <stop offset="0%" stop-color="#A855F7" stop-opacity=".35"/>
+      <stop offset="100%" stop-color="#A855F7" stop-opacity="0"/>
+    </radialGradient>
+
+  </defs>
+
+  <circle cx="70" cy="110" r="90"
+          fill="url(#purpleGlow)"
+          opacity=".6"/>
+
+  <circle cx="690" cy="110" r="90"
+          fill="url(#purpleGlow)"
+          opacity=".6"/>
+
+  <g fill="#D8B4FE">
+
+    <circle cx="80" cy="35" r="1.2">
+      <animate attributeName="opacity"
+               values=".2;1;.2"
+               dur="2.5s"
+               repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="145" cy="70" r="1">
+      <animate attributeName="opacity"
+               values="1;.2;1"
+               dur="3s"
+               repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="620" cy="40" r="1.3">
+      <animate attributeName="opacity"
+               values=".2;1;.2"
+               dur="2s"
+               repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="680" cy="75" r="1">
+      <animate attributeName="opacity"
+               values="1;.2;1"
+               dur="3.5s"
+               repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="110" cy="170" r="1">
+      <animate attributeName="opacity"
+               values=".2;1;.2"
+               dur="2.8s"
+               repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="650" cy="175" r="1.2">
+      <animate attributeName="opacity"
+               values="1;.2;1"
+               dur="2.2s"
+               repeatCount="indefinite"/>
+    </circle>
+
+  </g>
+
+
+  <text x="380"
+        y="105"
+        text-anchor="middle"
+        font-family="Georgia, 'Times New Roman', serif"
+        font-size="52"
+        font-weight="bold"
+        fill="#B794F4"
+        opacity=".45"
+        filter="url(#textGlow)">
+    Gabriela Lenz
+  </text>
+
+  <text x="380"
+        y="105"
+        text-anchor="middle"
+        font-family="Georgia, 'Times New Roman', serif"
+        font-size="52"
+        font-weight="bold"
+        fill="#F5F3FF">
+    Gabriela Lenz
+  </text>
+
+  <text x="380"
+        y="135"
+        text-anchor="middle"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="11"
+        letter-spacing="4"
+        fill="#C4B5FD"
+        opacity=".85">
+    COMPUTER SCIENCE STUDENT
+  </text>
+
+  <line x1="230"
+        y1="157"
+        x2="530"
+        y2="157"
+        stroke="#A855F7"
+        stroke-width="1"
+        opacity=".5"/>
+
+  <circle cy="157"
+          r="3"
+          fill="#C084FC"
+          filter="url(#glow)">
+
+    <animate attributeName="cx"
+             values="230;530;230"
+             dur="4s"
+             repeatCount="indefinite"/>
+
+  </circle>
+
+</svg>
